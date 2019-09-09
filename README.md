@@ -1,2 +1,2 @@
 # hello-world
-A test repository
+A test repository for someone completely "unspecial"
